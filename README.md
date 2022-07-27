@@ -4,3 +4,9 @@
 - Rest Operation
 - Spread Operator
 - Templates & Interpolation
+- Async
+- Await
+- OOP
+- module
+- Promise
+- Types of Method
